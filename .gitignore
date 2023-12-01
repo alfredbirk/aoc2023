@@ -1,0 +1,10 @@
+# .gitignore
+a.py
+inp.txt
+inp2.txt
+old_template.py
+__pycache__
+
+!days
+days/*
+!days/2022
